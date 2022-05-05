@@ -34,7 +34,7 @@
             android:id="@+id/tv_price"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="人数："
+            android:text="总数："
             android:textSize="20sp"
             android:layout_marginTop="5dp"
             android:layout_below="@+id/tv_kecheng"
